@@ -1,0 +1,7 @@
+torch
+tokenizers
+datasets
+torchmetrics
+altair
+wandb
+torchtext
