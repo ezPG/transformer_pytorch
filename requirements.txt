@@ -5,3 +5,4 @@ torchmetrics
 altair
 wandb
 torchtext
+accelerator
